@@ -234,4 +234,4 @@ Built with scikit-learn ecosystem
 # ⭐ Star This Repository
 If you found this project useful, please star it.
 
-https://img.shields.io/github/stars/yourusername/car-price-prediction?style=social
+![GitHub stars](https://img.shields.io/github/stars/yourusername/car-price-prediction?style=social)
