@@ -216,7 +216,7 @@ Long-term:
 
 Email: aya.320240137@ejust.edu.eg 
 LinkedIn: https://www.linkedin.com/in/aya-abd-elazim-94a256347/ 
-GitHub: github.com/Aya-Mohamed945/  
+GitHub: [github.com/Aya-Mohamed945/  ](https://github.com/Aya-Mohamed945/)
 
 ---
 
